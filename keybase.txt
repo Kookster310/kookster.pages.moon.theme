@@ -1,0 +1,61 @@
+==================================================================
+https://keybase.io/kook
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.310networks.com
+  * I am kook (https://keybase.io/kook) on keybase.
+  * I have a public key ASBMHDWG0GJITHg6LMHlMEKxfMQ4Vmgab2qLUbf4ST2Wago
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208185153a46f53539e4a107bd08a2b174c6792f1258013f07cd26a62c2e99c5660a",
+      "host": "keybase.io",
+      "kid": "01204c1c3586d062484c783a2cc1e53042b17cc43856681a6f6a8b51b7f8493d966a0a",
+      "uid": "fd224750fa4b6a724d513dd557841f19",
+      "username": "kook"
+    },
+    "merkle_root": {
+      "ctime": 1514940060,
+      "hash": "1435fac2f2b99cacf1eaf3008d5cb2019876ed3b92c893bbf7fc2548538ea32555ec51d4a820e293aac26216adbc309189639763067e9dd2305cda586d229dc7",
+      "hash_meta": "9d76c7d41dde95e16c3e1ad067ca574ce6897d50a69c4bea2cfbb9d968293402",
+      "seqno": 1880144
+    },
+    "service": {
+      "hostname": "www.310networks.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1514940068,
+  "expire_in": 504576000,
+  "prev": "ef67748308dc1c77040707ea92123cf0add875741bf8e85c3eea995be8d9d407",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTBw1htBiSEx4OizB5TBCsXzEOFZoGm9qi1G3+Ek9lmoKp3BheWxvYWTFA0d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwODE4NTE1M2E0NmY1MzUzOWU0YTEwN2JkMDhhMmIxNzRjNjc5MmYxMjU4MDEzZjA3Y2QyNmE2MmMyZTk5YzU2N
+jBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNGMxYzM1ODZkMDYyNDg0Yzc4M2EyY2MxZTUzMDQyYjE3Y2M0Mzg1NjY4MWE2ZjZhOGI1MWI3Zjg0OTNkOTY2YTBhIiwidWlkIjoiZmQyMjQ3NTBmYTRiNmE3MjRkNTEzZGQ1NTc4NDFmMTkiLCJ1c2VybmFtZSI6Imtvb2sifSwibWVya2xlX3Jvb3QiOn
+siY3RpbWUiOjE1MTQ5NDAwNjAsImhhc2giOiIxNDM1ZmFjMmYyYjk5Y2FjZjFlYWYzMDA4ZDVjYjIwMTk4NzZlZDNiOTJjODkzYmJmN2ZjMjU0ODUzOGVhMzI1NTVlYzUxZDRhODIwZTI5M2FhYzI2MjE2YWRiYzMwOTE4OTYzOTc2MzA2N2U5ZGQyMzA1Y2RhNTg2ZDIyOWRjNyIsImhhc2hfbWV0YSI6IjlkNzZjN2Q
+0MWRkZTk1ZTE2YzNlMWFkMDY3Y2E1NzRjZTY4OTdkNTBhNjljNGJlYTJjZmJiOWQ5NjgyOTM0MDIiLCJzZXFubyI6MTg4MDE0NH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cuMzEwbmV0d29ya3MuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24i
+OjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zOCJ9LCJjdGltZSI6MTUxNDk0MDA2OCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJlZjY3NzQ4MzA4ZGMxYzc3MDQwNzA3ZWE5MjEyM2NmMGFkZDg3NTc0MWJmOGU4NWMzZWVhOTk1YmU4ZDlkNDA3I
+iwic2Vxbm8iOjE4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQBxNEa1TJ5ZVf33BJwcrNscYsRrU6ZU41XNXN+cqee1BEC6T4hY73NwAm0+jk5M0H1ifXtHp+JOttl7usn6V4guoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCA4UlwWo5L1mcXiU4IKy8PRMJWOarS3YgRiaB/jEcDYjqN0YWfNAgKndmVyc2lvbg
+E=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kook
+
+==================================================================
